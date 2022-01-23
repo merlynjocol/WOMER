@@ -10,7 +10,7 @@ This project is part of the #Open17ClimateGender challenge to develop crowdsourc
 
 ## Tools
 
-- Data collection: [Epicollect5] (https://five.epicollect.net/)
+- Data collection: [Epicollect5](https://five.epicollect.net/)
 - Programming language: Python
 - WebApp Data visualisation: Streamlit
 - Dashboard libraries: Plotly | Seaborn | Folium
