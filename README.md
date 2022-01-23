@@ -14,6 +14,7 @@ This project is part of the #Open17ClimateGender challenge to develop crowdsourc
 - Programming language: Python
 - WebApp Data visualisation: Streamlit
 - Dashboard libraries: Plotly | Seaborn | Folium
+- Deployment WebApp : [Localtunnel](https://github.com/localtunnel/localtunnel)
 
 ##  Guidelines to Run the App from your Local Machine with Google Colab
 
