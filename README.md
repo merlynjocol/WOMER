@@ -1,12 +1,16 @@
 <img src="https://github.com/merlynjocol/WOMER/blob/main/Images/WOMERLOGO_NOT_BACKGROUND_GREE-removebg-preview.png?raw=true" width="160" height="150">
 
-**WOMER** is a crodwsourcing solution to collect, monitor, visualize, generate and share data of climate actions led by indigenous women. It combines a mobile App for data collection, a this Web Platform to monitor and generate reports.
+**WOMER** is a crodwsourcing data solution to collect, monitor, visualize, generate and share gender data on climate actions and challenges faced by indigenous women. Womer combines a mobile App for data collection and visualize the diferent indicators in a WebApp.  
 
 This project is part of the #Open17ClimateGender challenge to develop crowdsourcing solutoins to tackle climate-change-induced gender inequalities
 
 #### **Author:** [Merlyn J. Hurtado](https://github.com/merlynjocol)
 
-
+## Data indicators: 
+- Access to Natural Resources: Measure the access to Natural Resources in time and type, including water,land and energy sources
+- Time invested caring nature: Measure the Time investment in regenerating and preserving nature
+- Climate Actions: Inventory of the practices of conservation and proteccion of land, water, biodiversity, ecosystem services
+- Power decision-making: Measure the level of participation of women in environmental decision making
 
 ## Tools
 
