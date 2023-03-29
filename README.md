@@ -1,5 +1,7 @@
 <img src="https://github.com/merlynjocol/WOMER/blob/main/Images/WOMERLOGO_NOT_BACKGROUND_GREE-removebg-preview.png?raw=true" width="160" height="150">
 
+### ONLY KEEP FOR STREAMLIT FREAMWORK
+
 **WOMER** is a crodwsourcing data solution to collect, monitor, visualize, generate and share gender data on climate actions and challenges faced by indigenous women. Womer combines a mobile App for data collection and visualize the diferent indicators in a WebApp.  
 
 This project is part of the #Open17ClimateGender challenge to develop crowdsourcing solutoins to tackle climate-change-induced gender inequalities
